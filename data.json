@@ -6,7 +6,7 @@
     { "id": 5, "title": "ASCII Art", "content": "ASCII art, a form of creating images using characters from the ASCII standard, was a precursor to modern emoji and graphic design on computers. It emerged in the early days of computing when graphical displays were not widely available, and programmers used text characters creatively to create images." },
     { "id": 6, "title": "WWW", "content": "Tim Berners-Lee, a British computer scientist, invented the World Wide Web in 1989 while working at CERN. He developed the first web browser and web server, laying the foundation for the modern internet as we know it today. Berners-Lee's invention revolutionized communication, information sharing, and collaboration on a global scale." },
     { "id": 7, "title": "Y2K Bug", "content": "As the year 2000 approached, there was widespread concern about the Y2K bug which stemmed from early programming practices where dates were often represented with only the last two digits of the year. This raised fears that computer systems would malfunction as they rolled over from 1999 to 2000. Extensive efforts were made to update and fix affected systems, leading to significant investment in software testing and debugging." }
-    { "id": 8, "title": "whatever", "content": "blablabla" }
+    { "id": 8, "title": "whatever", "content": "blablabla" },
     { "id": 9, "title": "again whatever", "content": "more blablabla" }
 ]
   
